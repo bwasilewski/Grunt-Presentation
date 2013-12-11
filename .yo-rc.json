@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Grunt for Static Websites",
+    "packageVersion": "0.0.0",
+    "useSass": true
+  }
+}
