@@ -4,12 +4,12 @@
 
 Add the following to your Gruntfile:
 
-		// Watch config
-		watch: {
-		  options: {
-		    livereload: true
-		  },
-		  jshint: { 
+    // Watch config
+    watch: {
+      options: {
+        livereload: true
+      },
+      jshint: { 
         files: '<%= jshint.build.src %>',
         tasks: ['jshint']
       },
@@ -17,11 +17,11 @@ Add the following to your Gruntfile:
         files: '<%= uglify.build.src %>',
         tasks: ['uglify']
       }
-		}
+    }
 
 And load the task:
 
-		  grunt.loadNpmTasks('grunt-contrib-watch');
+      grunt.loadNpmTasks('grunt-contrib-watch');
 
 note:
 <br />
