@@ -21,7 +21,7 @@ Add the following to your Gruntfile:
 
 And load the task:
 
-      grunt.loadNpmTasks('grunt-contrib-watch');
+    grunt.loadNpmTasks('grunt-contrib-watch');
 
 note:
 <br />
