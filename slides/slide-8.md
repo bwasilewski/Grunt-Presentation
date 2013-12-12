@@ -14,8 +14,13 @@ https://gist.github.com/bwasilewski/7863893
 
 
 note:
-    Stores project metadata
-		Lists Grunt version and dependencies
-		This is what makes 'npm install' work
+<br />
+Stores project metadata
+<ul>
+	<li>Lists Grunt version and dependencies</li>
+	<li>This is what makes 'npm install' work</li>
+</ul>
+		
+		
 
 

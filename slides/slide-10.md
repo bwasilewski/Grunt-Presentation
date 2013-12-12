@@ -19,7 +19,9 @@ https://github.com/bwasilewski/grunt-starter/blob/master/Gruntfile.js
 	          jQuery: true
 	        }
 	      },
-	      all: ['Gruntfile.js', 'js/scripts.js']
+	      build: {
+	      	src: ['Gruntfile.js', 'js/scripts.js']
+	      } 
 	    },
 	    
 	    uglify: {
@@ -43,5 +45,7 @@ https://github.com/bwasilewski/grunt-starter/blob/master/Gruntfile.js
 	};
 
 note:
-    This is where the magic happens.
-    Write out all of your project's task instructions here (jshint, uglify, etc)
+<br />
+This is where the magic happens.
+<br />
+Write out all of your project's task instructions here (jshint, uglify, etc)

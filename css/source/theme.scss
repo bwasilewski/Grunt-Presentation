@@ -55,3 +55,18 @@ $heading1TextShadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b
 
 // See ../../bower_components/reveal.js/css/theme/README.md
 // for further explanations on how reveal.js themes work.
+
+.reveal p,
+.reveal li {
+	line-height: 1.5em;
+}
+
+.reveal {
+	p, li, h1, h2, h3, h4, h5, h6 {
+		line-height: 1.5em;
+	}
+
+	pre {
+		margin: 30px auto;
+	}
+}

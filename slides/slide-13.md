@@ -8,5 +8,3 @@ Preprocessors (SASS, LESS) add extra features to your CSS:
 * Mixins
 * and lots more (http://sass-lang.com)
 
-note:
-

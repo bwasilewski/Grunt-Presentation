@@ -3,5 +3,7 @@
 
 
 note:
-    Right now, Grunt only fires once - when we call it.
-    This is not ideal.
+<br />
+Right now, Grunt only fires once - when we call it.
+<br />
+This is not ideal.
